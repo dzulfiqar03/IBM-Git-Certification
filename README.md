@@ -46,3 +46,4 @@ Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for g
 ## Acknowledgements
 This repository is part of the IBM Developer Skills Network coursework, used for educational purposes to learn Git and GitHub fundamentals.Fixing a typo here.
 Fixing a typo here.
+Fixing a typo here.
