@@ -1,5 +1,8 @@
-muhammaddzulfiqar@MacBook-Pro-Muhammad IBM - Introduced HTML % git merge bug-fix-typo
-Updating 7faa2ea..5b508a5
+$ git checkout main
+Switched to branch 'main'
+
+$ git merge bug-fix-typo-2
+Updating xxxxxxx..yyyyyyy
 Fast-forward
- README.md | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
