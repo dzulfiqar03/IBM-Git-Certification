@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title class="title">Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="container">
+        <div class="logo">
+          <h1>Muhammad Dzulfiqar</h1>
+        </div>
+        <section class="nav-links">
+          <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects Details</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#recommendations">Recommendations</a></li>
+          </ul>
+        </section>
+      </div>
+    </nav>
+
+    <main>
+      <section class="hero">
+        <div class="container-hero">
+          <h1 class="title-page">Welcome to My Portfolio</h1>
+          <p>This is a brief introduction about myself and my work.</p>
+        </div>
+      </section>
+
+      <section class="projects" id="projects">
+        <div class="container-projects">
+          <h2>My Projects</h2>
+          <div class="project-list"></div>
+        </div>
+      </section>
+
+      <section class="skills" id="skills">
+        <div class="container-skills">
+          <h2>My Skills</h2>
+
+          <div class="skills-list"></div>
+        </div>
+      </section>
+
+      <section class="recommendations" id="recommendations">
+        <div class="container-recommendations">
+          <h2>Recommendations</h2>
+          <p>Here are some recommendations from my colleagues and clients.</p>
+          <div class="recommendation-list">
+            <div class="recommendation-item">
+              <p>
+                "Muhammad is a highly skilled developer who consistently
+                delivers high-quality work."
+              </p>
+              <p>- John Doe, Client</p>
+            </div>
+            <div class="recommendation-item">
+              <p>
+                "Working with Muhammad has been a pleasure. He is professional
+                and reliable."
+              </p>
+              <p>- Jane Smith, Colleague</p>
+            </div>
+          </div>
+        </div>
+
+        <form action="" method="POST" class="recommendation-form">
+          <h3>Submit a Recommendation</h3>
+
+          <label for="name">Your Name:</label>
+          <input type="text" id="name" name="name" required />
+
+          <label for="recommendation">Your Recommendation:</label>
+          <textarea
+            id="recommendation"
+            name="recommendation"
+            required
+          ></textarea>
+
+          <button type="submit">Submit</button>
+        </form>
+      </section>
+
+      <script src="script.js"></script>
+    </main>
+  </body>
+</html>
