@@ -1,8 +1,3 @@
-#!/bin/bash
-
-# simple-interest.sh
-# A simple calculator to compute Simple Interest based on user input.
-# Formula: Simple Interest (SI) = (Principal * Rate * Time) / 100
 
 echo "=================================="
 echo "   Simple Interest Calculator"
@@ -19,10 +14,8 @@ if [[ -z "$principal" || -z "$rate" || -z "$time" ]]; then
     exit 1
 fi
 
-# Calculate Simple Interest using awk for floating point arithmetic
 simple_interest=$(awk -v p="$principal" -v r="$rate" -v t="$time" 'BEGIN { printf "%.2f", (p * r * t) / 100 }')
 
-# Calculate Total Amount (Principal + Interest)
 total_amount=$(awk -v p="$principal" -v si="$simple_interest" 'BEGIN { printf "%.2f", p + si }')
 
 # Display the results
