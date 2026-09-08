@@ -61,7 +61,7 @@ const skills = [
     name: "Node.js",
     logo: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
   },
-  
+
 ];
 
 skills.forEach((skill) => {
