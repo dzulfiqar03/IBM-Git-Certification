@@ -1,7 +1,27 @@
-muhammaddzulfiqar@MacBook-Pro-Muhammad IBM - Introduced HTML % git branch -a -vv
-  bug-fix-revert       97a5a88 Add Task 7 merge output
-  bug-fix-typo         d08689d Fix typo in README
-  bug-fix-typo-2       fbfa5c3 Minor fix
-  halo                 13c910b Add Task 9 branch list output
-* main                 97a5a88 [origin/main] Add Task 7 merge output
-  remotes/origin/main 97a5a88 Add Task 7 merge output
+$ curl -s https://api.github.com/repos/dzulfiqar03/IBM-Git-Certification/branches
+[
+  {
+    "name": "bug-fix-revert",
+    "commit": {
+      "sha": "301efda83ba142fd12d324886b754c7358f9e7c4",
+      "url": "https://api.github.com/repos/dzulfiqar03/IBM-Git-Certification/commits/301efda83ba142fd12d324886b754c7358f9e7c4"
+    },
+    "protected": false
+  },
+  {
+    "name": "bug-fix-typo",
+    "commit": {
+      "sha": "7f41449dadfcb62b0843ebf6479986a593526164",
+      "url": "https://api.github.com/repos/dzulfiqar03/IBM-Git-Certification/commits/7f41449dadfcb62b0843ebf6479986a593526164"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "a66c606bef0de66a3b9c964f0928da3f80632e72",
+      "url": "https://api.github.com/repos/dzulfiqar03/IBM-Git-Certification/commits/a66c606bef0de66a3b9c964f0928da3f80632e72"
+    },
+    "protected": false
+  }
+]
