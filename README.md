@@ -41,4 +41,4 @@ This project is licensed under the terms described in the [LICENSE](./LICENSE) f
 Please read our [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before participating in or contributing to this project.
 
 ## Contributing
-Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute.
+Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute.Fixing a typo here.
