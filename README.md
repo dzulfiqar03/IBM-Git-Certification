@@ -1,7 +1,7 @@
 # Introduction to Git and GitHub
 
 ## Project Name
-**mcino-Introduction-to-Git-and-GitHub**
+**Introduction-to-Git-and-GitHub**
 
 ## Description
 This repository was created as part of the **IBM Developer Skills Network** course *"Introduction to Git and GitHub"*. It serves as a hands-on practice space for learning core version control concepts and collaborative development workflows using Git and GitHub.
