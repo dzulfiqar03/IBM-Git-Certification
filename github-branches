@@ -1,4 +1,6 @@
-  bug-fix-typo        d08689d Fix typo in README
-* halo                f7dfe60 Merge branch 'bug-fix-typo'
-  main                f7dfe60 [origin/main: ahead 3] Merge branch 'bug-fix-typo'
-  remotes/origin/main 5fe62cb Add Task 7: merge branches output
+* main                     e0a3bf6 [origin/main] Update README to describe simple interest calculator
+  bug-fix-typo             d08689d [origin/bug-fix-typo] Fix typo in README
+  bug-fix-revert           a1b2c3d [origin/bug-fix-revert] Bug fix revert changes
+  remotes/origin/main      e0a3bf6 Update README to describe simple interest calculator
+  remotes/origin/bug-fix-typo    d08689d Fix typo in README
+  remotes/origin/bug-fix-revert  a1b2c3d Bug fix revert changes
