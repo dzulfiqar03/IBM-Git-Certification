@@ -362,4 +362,3 @@ $ curl -s https://api.github.com/repos/dzulfiqar03/IBM-Git-Certification/pulls/4
   "deletions": 8,
   "changed_files": 2
 }
-
