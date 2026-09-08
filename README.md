@@ -44,4 +44,4 @@ Please read our [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before participating 
 Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute.
 
 ## Acknowledgements
-This repository is part of the IBM Developer Skills Network coursework, used for educational purposes to learn Git and GitHub fundamentals.
+This repository is part of the IBM Developer Skills Network coursework, used for educational purposes to learn Git and GitHub fundamentals.Fixing a typo here.

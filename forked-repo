@@ -195,7 +195,7 @@ $ curl -s https://api.github.com/repos/dzulfiqar03/mcino-Introduction-to-Git-and
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 9721,
+    "forks_count": 9720,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -216,7 +216,7 @@ $ curl -s https://api.github.com/repos/dzulfiqar03/mcino-Introduction-to-Git-and
 
     ],
     "visibility": "public",
-    "forks": 9721,
+    "forks": 9720,
     "open_issues": 48,
     "watchers": 17,
     "default_branch": "main"
@@ -306,7 +306,7 @@ $ curl -s https://api.github.com/repos/dzulfiqar03/mcino-Introduction-to-Git-and
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 9721,
+    "forks_count": 9720,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -327,11 +327,11 @@ $ curl -s https://api.github.com/repos/dzulfiqar03/mcino-Introduction-to-Git-and
 
     ],
     "visibility": "public",
-    "forks": 9721,
+    "forks": 9720,
     "open_issues": 48,
     "watchers": 17,
     "default_branch": "main"
   },
-  "network_count": 9721,
+  "network_count": 9720,
   "subscribers_count": 0
 }
