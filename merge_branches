@@ -1,8 +1,0 @@
-$ git checkout main
-Switched to branch 'main'
-
-$ git merge bug-fix-typo-2
-Updating xxxxxxx..yyyyyyy
-Fast-forward
- README.md | 1 +
- 1 file changed, 1 insertion(+)
